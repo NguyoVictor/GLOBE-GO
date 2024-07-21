@@ -11,9 +11,7 @@ export default function Hero() {
         <div className="title">
           <h1>TRAVEL TO EXPLORE</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-            natus, enim ipsam magnam odit deserunt itaque? Minima earum velit
-            tenetur!
+          Welcome to GLOBE-GO, where your journey begins! We craft unforgettable travel experiences, from tranquil beach retreats to adventurous mountain treks and cultural city tours, tailored to your unique desires.
           </p>
         </div>
         <div className="search">

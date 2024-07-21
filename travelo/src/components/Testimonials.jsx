@@ -10,8 +10,7 @@ export default function Testimonials() {
       <div className="testimonials">
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            I enjoyed every bit of my trip all thanks to GLOBE-GO
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
@@ -23,27 +22,25 @@ export default function Testimonials() {
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            GUYS! If you're longing for the best trips and enjoy yourself to the maximum, check-out GLOBE-GO
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Keith Lee</h4>
+              <span>Manager- Lizzies Restaurant</span>
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+           AMAZING WORK FROM GLOBE-GO, ABSOLUTELY GREAT JOB!!! HIGHLY RECOMMEND
           </p>
           <div className="info">
             <img src={avatarImage} alt="" />
             <div className="details">
-              <h4>Kishan Sheth</h4>
-              <span>CEO - Shashaan Web Solutions</span>
+              <h4>Liam </h4>
+              <span>Account</span>
             </div>
           </div>
         </div>
