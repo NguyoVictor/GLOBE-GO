@@ -40,7 +40,7 @@ export default function Testimonials() {
             <img src={avatarImage} alt="" />
             <div className="details">
               <h4>Liam </h4>
-              <span>Account</span>
+              <span>Accountant</span>
             </div>
           </div>
         </div>
